@@ -1,10 +1,10 @@
 ---
 name: HARSH DOIPHODE
-title: Contributor
+title: GSoC Participant
 github: HARSHDOIPHODE
 twitter: ""
-linkedin: ""
-slack: ""
+linkedin: "harshdoiphode15"
+slack: "U06LW3D5W81"
 joining_date: ""
 role: contributor
 ---

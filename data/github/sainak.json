@@ -1,6 +1,199 @@
 {
-  "last_updated": 1709463647.0,
+  "last_updated": 1709651562.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1949",
+      "time": 1709651562.0,
+      "link": "https://github.com/coronasafe/care/pull/1949",
+      "text": "Hotfix release | v24.09.1",
+      "turnaround_time": 1026
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1949",
+      "time": 1709650537.0,
+      "link": "https://github.com/coronasafe/care/pull/1949",
+      "text": "Hotfix release | v24.09.1"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1948",
+      "time": 1709645191.0,
+      "link": "https://github.com/coronasafe/care/issues/1948",
+      "text": "Convert all tuples to choice classes"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709644150.0,
+      "title": "coronasafe/leaderboard#339",
+      "link": "https://github.com/coronasafe/leaderboard/pull/339#pullrequestreview-1916855816",
+      "text": "Adds API for contributor daily reports"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1947",
+      "time": 1709643756.0,
+      "link": "https://github.com/coronasafe/care/pull/1947#issuecomment-1978731672",
+      "text": "test the workflows on your repo and share the action logs"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709643660.0,
+      "title": "coronasafe/care#1947",
+      "link": "https://github.com/coronasafe/care/pull/1947#pullrequestreview-1916835925",
+      "text": "build: enable parallel Docker builds for multiple platforms"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1940",
+      "time": 1709643560.0,
+      "link": "https://github.com/coronasafe/care/pull/1940#issuecomment-1978725498",
+      "text": "initial changes look good, you can proceed with adding created_by updated_by to other models as well\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709643250.0,
+      "title": "coronasafe/care#1945",
+      "link": "https://github.com/coronasafe/care/pull/1945#pullrequestreview-1916821780",
+      "text": "Fix bed assignment validation for admission"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1946",
+      "time": 1709642268.0,
+      "link": "https://github.com/coronasafe/care/pull/1946",
+      "text": "Merge migrations"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#336",
+      "time": 1709634070.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/336#issuecomment-1978421801",
+      "text": "Add shebang \n#!/usr/bin/env bash"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1944",
+      "time": 1709619457.0,
+      "link": "https://github.com/coronasafe/care/issues/1944#issuecomment-1978039769",
+      "text": "Noticed that it's a pro feature"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care#1944",
+      "time": 1709619456.0,
+      "link": "https://github.com/coronasafe/care/issues/1944",
+      "text": "Add persistance to localstack image"
+    },
+    {
+      "type": "issue_opened",
+      "title": "coronasafe/care#1944",
+      "time": 1709619172.0,
+      "link": "https://github.com/coronasafe/care/issues/1944",
+      "text": "Add persistance to localstack image"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1803",
+      "time": 1709613436.0,
+      "link": "https://github.com/coronasafe/care/issues/1803#issuecomment-1977953700",
+      "text": "> @sainak, does the Makefile help spin up the container? If so, why would we need to run arm and x86 builds? Could you explain in more detail where we should use it?\r\n\r\nthis is regarding the ci pipelines that we have in github actions, https://github.com/coronasafe/care/blob/master/.github/workflows/deployment.yaml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#25",
+      "time": 1709576468.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/25",
+      "text": "cleanup",
+      "turnaround_time": 4081
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1939",
+      "time": 1709574828.0,
+      "link": "https://github.com/coronasafe/care/pull/1939",
+      "text": "Production Release 97 | March week 1 2024",
+      "turnaround_time": 6164
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709574817.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024",
+      "turnaround_time": 6075
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#25",
+      "time": 1709572388.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/25",
+      "text": "cleanup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709568743.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1939",
+      "time": 1709568666.0,
+      "link": "https://github.com/coronasafe/care/pull/1939",
+      "text": "Production Release 97 | March week 1 2024"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1936",
+      "time": 1709559628.0,
+      "link": "https://github.com/coronasafe/care/pull/1936",
+      "text": "Fix:Migration of new facility types",
+      "collaborated_with": [
+        "SinghYuvraj0506"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1917",
+      "time": 1709559578.0,
+      "link": "https://github.com/coronasafe/care/pull/1917",
+      "text": "added contraints in consultations and custom migrations",
+      "collaborated_with": [
+        "DraKen0009"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1924",
+      "time": 1709558799.0,
+      "link": "https://github.com/coronasafe/care/pull/1924",
+      "text": "Fix failing test cases and shuffle case before run",
+      "turnaround_time": 6238
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1908",
+      "time": 1709558719.0,
+      "link": "https://github.com/coronasafe/care/pull/1908",
+      "text": "Fixed N+1 queries issue in /api/v1/bed/",
+      "collaborated_with": [
+        "dhruv-goyal-10"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1704",
+      "time": 1709558184.0,
+      "link": "https://github.com/coronasafe/care/pull/1704",
+      "text": "Adds authz for Prescription & Medicine Administrations",
+      "collaborated_with": [
+        "rithviknishad",
+        "vigneshhari"
+      ]
+    },
     {
       "type": "issue_closed",
       "title": "coronasafe/care#1702",

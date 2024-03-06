@@ -1,6 +1,102 @@
 {
-  "last_updated": 1709417657.0,
+  "last_updated": 1709644106.0,
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard-data#26",
+      "time": 1709644106.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/26",
+      "text": "Update rash-27.md",
+      "turnaround_time": 53680
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709635246.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337",
+      "text": "Fix overflow in home at 1280px",
+      "turnaround_time": 4028
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709635246.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337",
+      "text": "Fix overflow in home at 1280px",
+      "collaborated_with": [
+        "rithviknishad"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709635201.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337#issuecomment-1978460771",
+      "text": "Okay, just enabled it thank you "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709633350.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337#issuecomment-1978399655",
+      "text": "Ok I'll fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard#337",
+      "time": 1709631218.0,
+      "link": "https://github.com/coronasafe/leaderboard/pull/337",
+      "text": "Fix overflow in home at 1280px"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#333",
+      "time": 1709621436.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/333#issuecomment-1978072307",
+      "text": "i would like to work on this issue "
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/leaderboard#239",
+      "time": 1709597101.0,
+      "link": "https://github.com/coronasafe/leaderboard/issues/239#issuecomment-1977701485",
+      "text": "I would like to work on this issue "
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/leaderboard-data#26",
+      "time": 1709590426.0,
+      "link": "https://github.com/coronasafe/leaderboard-data/pull/26",
+      "text": "Update rash-27.md"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709574817.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024",
+      "collaborated_with": [
+        "sriharsh05",
+        "kshitijv256",
+        "Ashesh3",
+        "aeswibon",
+        "alanansari",
+        "nihal467",
+        "UdaySagar-Git",
+        "Ashutosh0602",
+        "rithviknishad",
+        "thedevildude",
+        "skks1212",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care#1937",
+      "time": 1709567041.0,
+      "link": "https://github.com/coronasafe/care/issues/1937#issuecomment-1976878949",
+      "text": "- for this already the security checks are made in the serializers \r\n- So , my idea is to create a class and use it where presently the s3 bucket is used (i.e the methods of the models that return URL and etc, in case of file storage) so that multiple storage providers can be accessed via it, \r\n- the basic idea of the class : \r\nclass StorageProvider:\r\ndef __init__(self , provider ,bucket_type  ):\r\n if provider == \"s3\":\r\n self.client = boto3.client(\"s3\", **config) \r\n//similarly we can provide the options for remaining storage providers \r\n// Here implementing the methods required ,  like signed_url , put_object , get_object , etc , \r\n- regarding private and public buckets is we can decide with the help of bucket type and we can change the upload url accordingly \r\n@sainak This is the basic idea of my implementation, and mention if I am wrong somewhere or suggest any changes need to done  "
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/care#1928",
@@ -163,38 +259,6 @@
       "text": "Translations are not made properly in some places"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7322",
-      "title": "Replace age field with DOB while Updating User",
-      "stale_for": 0,
-      "labels": [
-        "waiting for backend"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1935",
-      "title": "Replace age field with DOB in users model",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1929",
-      "title": "Add age validation in PatientDetailSerializer",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1928",
-      "title": "Add validation checks in ResourceRequestSerializer",
-      "stale_for": 0,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/7260",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/7264"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

@@ -1,6 +1,153 @@
 {
-  "last_updated": 1709497012.0,
+  "last_updated": 1709673363.0,
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": 1709673363.0,
+      "title": "coronasafe/metabase_manager#13",
+      "link": "https://github.com/coronasafe/metabase_manager/pull/13#pullrequestreview-1918149032",
+      "text": "Consolidated features from Issue 9"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709673258.0,
+      "title": "coronasafe/metabase_manager#13",
+      "link": "https://github.com/coronasafe/metabase_manager/pull/13#pullrequestreview-1918143613",
+      "text": "Consolidated features from Issue 9"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709673145.0,
+      "title": "coronasafe/metabase_manager#13",
+      "link": "https://github.com/coronasafe/metabase_manager/pull/13#pullrequestreview-1918143613",
+      "text": "Consolidated features from Issue 9"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/metabase_manager#12",
+      "time": 1709671109.0,
+      "link": "https://github.com/coronasafe/metabase_manager/pull/12#issuecomment-1979597179",
+      "text": "Hey, are the changes in this PR also there in PR https://github.com/coronasafe/metabase_manager/pull/13 ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7340",
+      "time": 1709654290.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7340#issuecomment-1979100011",
+      "text": "Fixed by https://github.com/coronasafe/care/pull/1945"
+    },
+    {
+      "type": "issue_closed",
+      "title": "coronasafe/care_fe#7340",
+      "time": 1709654289.0,
+      "link": "https://github.com/coronasafe/care_fe/issues/7340",
+      "text": "Unable to create a log update for domiciliary care patient"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1949",
+      "time": 1709651562.0,
+      "link": "https://github.com/coronasafe/care/pull/1949",
+      "text": "Hotfix release | v24.09.1",
+      "collaborated_with": [
+        "gigincg"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "coronasafe/care#1945",
+      "time": 1709645445.0,
+      "link": "https://github.com/coronasafe/care/pull/1945",
+      "text": "Fix bed assignment validation for admission",
+      "turnaround_time": 10058
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709642901.0,
+      "title": "coronasafe/care#1946",
+      "link": "https://github.com/coronasafe/care/pull/1946#pullrequestreview-1916808482",
+      "text": "Merge migrations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "coronasafe/care#1945",
+      "time": 1709638915.0,
+      "link": "https://github.com/coronasafe/care/pull/1945",
+      "text": "Fix bed assignment validation for admission"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709579667.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1977283469",
+      "text": "> @Ashesh3 can i open a pr so that you can review my code and also check whether the import from csv is working fine or not??\r\n\r\nSure, go ahead."
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709579660.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1977283326",
+      "text": "> > > Hiii @Ashesh3 just want a quick review I have used react-csv-reader for reading the data from csv currently the UI is looking like this I will change to look more better ![Screenshot 2024-03-04 180626](https://private-user-images.githubusercontent.com/98794736/309755722-e9eb3434-a85e-4532-86e0-2e5c5e14f0bf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk1NTkyMzcsIm5iZiI6MTcwOTU1ODkzNywicGF0aCI6Ii85ODc5NDczNi8zMDk3NTU3MjItZTllYjM0MzQtYTg1ZS00NTMyLTg2ZTAtMmU1YzVlMTRmMGJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA0VDEzMjg1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjMDMzNDgzNzk2MTY3MWFlMTcwODdlY2NmNjI3YjY0YTNlYjgyMTU5YjljOTk4YTU5YTNkOTA4YzBmMGNlNzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lObAoWVq9kRrCI0thtTO6xfw840JcNJB-B6U_PcyeXE) So when we click choose file and select a csv if the csv contains headers like question,human_answer,language then only it proceeds with the csv else it says upload correct csv and if the csv is correct it uses handleAddQuestion function in a loop untill all the data from csv is completed. I have also implemented checks in between so if there is a row which does not contains any of the details like question or human_answer or language it simply does not add that data as well this helps in stopping the missing values to enter is this approach correct??? please give suggestions......\r\n> > \r\n> > \r\n> > Approach sounds good, let's get the design ready now!\r\n> \r\n> one more query like if the api fails to upload a question, what does it return because while running a loop it may be possible that at some point or due to network, api may get fail so that's why i am asking\r\n\r\nIf any question fails, just display an error that \"Question: ... failed to import\""
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care#1939",
+      "time": 1709574828.0,
+      "link": "https://github.com/coronasafe/care/pull/1939",
+      "text": "Production Release 97 | March week 1 2024",
+      "collaborated_with": [
+        "aeswibon"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "coronasafe/care_fe#7337",
+      "time": 1709574817.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7337",
+      "text": "Production Release 97 | March week 1 2024",
+      "collaborated_with": [
+        "sriharsh05",
+        "kshitijv256",
+        "aeswibon",
+        "alanansari",
+        "nihal467",
+        "rash-27",
+        "UdaySagar-Git",
+        "Ashutosh0602",
+        "rithviknishad",
+        "thedevildude",
+        "skks1212",
+        "khavinshankar"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/ayushma_fe#186",
+      "time": 1709559807.0,
+      "link": "https://github.com/coronasafe/ayushma_fe/issues/186#issuecomment-1976611622",
+      "text": "> Hiii @Ashesh3 just want a quick review I have used react-csv-reader for reading the data from csv currently the UI is looking like this I will change to look more better ![Screenshot 2024-03-04 180626](https://private-user-images.githubusercontent.com/98794736/309755722-e9eb3434-a85e-4532-86e0-2e5c5e14f0bf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk1NTkyMzcsIm5iZiI6MTcwOTU1ODkzNywicGF0aCI6Ii85ODc5NDczNi8zMDk3NTU3MjItZTllYjM0MzQtYTg1ZS00NTMyLTg2ZTAtMmU1YzVlMTRmMGJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA0VDEzMjg1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjMDMzNDgzNzk2MTY3MWFlMTcwODdlY2NmNjI3YjY0YTNlYjgyMTU5YjljOTk4YTU5YTNkOTA4YzBmMGNlNzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lObAoWVq9kRrCI0thtTO6xfw840JcNJB-B6U_PcyeXE) So when we click choose file and select a csv if the csv contains headers like question,human_answer,language then only it proceeds with the csv else it says upload correct csv and if the csv is correct it uses handleAddQuestion function in a loop untill all the data from csv is completed. I have also implemented checks in between so if there is a row which does not contains any of the details like question or human_answer or language it simply does not add that data as well this helps in stopping the missing values to enter is this approach correct??? please give suggestions......\r\n\r\nApproach sounds good, let's get the design ready now!"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": 1709559260.0,
+      "title": "coronasafe/care_fe#7148",
+      "link": "https://github.com/coronasafe/care_fe/pull/7148#pullrequestreview-1914326010",
+      "text": "Adds support for viewing discharged patients of a facility"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7305",
+      "time": 1709539947.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7305#issuecomment-1975956846",
+      "text": "> > > Hey @Ashesh3 ,\r\n> > > Does a file preview for CSV and XLSX files already exist? Or is that open for work? I'm currently working on a similar issue, and I would like to implement a file preview for CSV and XLSX files. I just wanted to confirm before starting the work.\r\n> > \r\n> > \r\n> > Currently we do not have file preview for CSV and XLSX, you can work on it if you want but remember that we cannot send our document to a third party service to get the render, i.e Google Doc Embed, Office365 embeds won't work for our case, if you can render csv and xlsx files without iframe'ing these third party sites, then sure, take it up!\r\n> \r\n> I will use the existing packages, read-excel-file and react-csv-reader, for implementation. Is that okay?\r\n\r\nYep, that'll be great!"
+    },
+    {
+      "type": "comment_created",
+      "title": "coronasafe/care_fe#7305",
+      "time": 1709538545.0,
+      "link": "https://github.com/coronasafe/care_fe/pull/7305#issuecomment-1975917470",
+      "text": "> Hey @Ashesh3 ,\r\n> \r\n> Does a file preview for CSV and XLSX files already exist? Or is that open for work? I'm currently working on a similar issue, and I would like to implement a file preview for CSV and XLSX files. I just wanted to confirm before starting the work.\r\n\r\nCurrently we do not have file preview for CSV and XLSX, you can work on it if you want but remember that we cannot send our document to a third party service to get the render, i.e Google Doc Embed, Office365 embeds won't work for our case, if you can render csv and xlsx files without iframe'ing these third party sites, then sure, take it up!"
+    },
     {
       "type": "comment_created",
       "title": "coronasafe/ayushma_fe#186",
@@ -18063,119 +18210,6 @@
       "text": "Make Daily Round clone error more user friendly"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/7305",
-      "title": "Improve File Preview",
-      "stale_for": 3,
-      "labels": [
-        "needs testing",
-        "needs review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1903",
-      "title": "Migrate consultation's assigned_to to assigned_clinicians",
-      "stale_for": 11,
-      "labels": [
-        "blocked",
-        "waiting-for-review"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1900",
-      "title": "Add assigned_clinicians field to PatientConsultation model",
-      "stale_for": 6,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1657",
-      "title": "POC: AI discharge summary",
-      "stale_for": 150,
-      "labels": [
-        "POC"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care_fe/pull/5147",
-      "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 334,
-      "labels": [
-        "work-in-progress",
-        "merge conflict"
-      ]
-    },
-    {
-      "link": "https://github.com/coronasafe/care/pull/1227",
-      "title": "[WIP] Integrate LiveKit for doctor connect",
-      "stale_for": 347,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1893",
-      "pr_link": "https://github.com/coronasafe/care/pull/1896"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/465"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/431",
-      "pr_link": "https://github.com/coronasafe/ayushma_fe/pull/177"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6803",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6875"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/6414",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/6413"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/teleicu_middleware/issues/98",
-      "pr_link": "https://github.com/coronasafe/teleicu_middleware/pull/99"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5946",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5947"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/212",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/216"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/ayushma/issues/158",
-      "pr_link": "https://github.com/coronasafe/ayushma/pull/159"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care/issues/1283",
-      "pr_link": "https://github.com/coronasafe/care/pull/1286"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5276",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5283"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5244",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5247"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/5075",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/5076"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4855",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4856"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4613",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4614"
-    },
-    {
-      "issue_link": "https://github.com/coronasafe/care_fe/issues/4147",
-      "pr_link": "https://github.com/coronasafe/care_fe/pull/4148"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }
